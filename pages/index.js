@@ -1,4 +1,4 @@
-import WhyChooseUs from '../components/WhyChooseUs';
+import WhyChooseUs from "../components/WhyChooseUs";
 
 export default function Home() {
   return (
